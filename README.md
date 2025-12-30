@@ -521,14 +521,10 @@ Where:
 
 <div align="center">
 
-### ⭐ Star this repository if you find it helpful! ⭐
-
-Made with ❤️ using Java & Spring Boot
 
 [Report Bug](https://github.com/your-username/AI-resume-jd-matching/issues) · [Request Feature](https://github.com/your-username/AI-resume-jd-matching/issues) · [Documentation](https://github.com/your-username/AI-resume-jd-matching/wiki)
 
 ---
 
-**Last Updated:** December 2024 | **Version:** 1.0.0
-
 </div>
+
