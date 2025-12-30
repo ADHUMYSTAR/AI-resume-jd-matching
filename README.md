@@ -2,7 +2,6 @@
 
 [![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 An AI-powered backend system that evaluates how well a resume aligns with a given job description using **text similarity and keyword-based explainability**. The system is **domain-agnostic**, works across technical and non-technical roles, and provides transparent reasoning behind match scores.
@@ -527,4 +526,5 @@ Where:
 ---
 
 </div>
+
 
